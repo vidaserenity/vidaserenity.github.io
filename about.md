@@ -10,7 +10,7 @@ Hello I am Sweeping. I am trying to learn Python but I'm struggling.
 I am an endangered Giant Panda and I love bamboos.
 I am always hungry so please feed me. 
 
-![](/images/puppycat.jpg){:height="300px"}
+![](/images/panda.jpg){:height="300px"}
 
 ### Contact me
 
