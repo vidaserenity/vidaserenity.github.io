@@ -3,14 +3,15 @@ layout: page
 title: About
 permalink: /about/
 ---
-Hello I am Puppycat, PhD. I am a Python master.
+Hello I am Sweeping. I am trying to learn Python but I'm struggling.
 
 ## More information
 
-My favorite food is spinach. I like to SCREAM when I don't get my way but that's okay because I'm cute.
+I am an endangered Giant Panda and I love bamboos.
+I am always hungry so please feed me. 
 
-![](/images/puppycat.jpg){:height="300px"}
+![](/images\panda.jpg){:height="300px"}
 
 ### Contact me
 
-[puppycat@puppycat.org](mailto:puppycat@puppycat.org)
+[vidarusli@yahoo.com](mailto:vidarusli@yahoo.com)
