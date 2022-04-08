@@ -9,7 +9,7 @@ Hello I Sweeping. I am trying to learn Python but I'm struggling.
 
 I am currently a senior in UCLA about to graduate in Spring 2022! Can't wait.
 
-![](/images/puppycat.jpg){:height="300px"}
+![](/images/panda.jpg){:height="300px"}
 
 ### Contact me
 
