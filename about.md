@@ -3,11 +3,12 @@ layout: page
 title: About
 permalink: /about/
 ---
-Hello I Sweeping. I am trying to learn Python but I'm struggling.
+Hello I am Sweeping. I am trying to learn Python but I'm struggling.
 
 ## More information
 
-I am currently a senior in UCLA about to graduate in Spring 2022! Can't wait.
+I am an endangered Giant Panda and I love bamboos.
+I am always hungry so please feed me. 
 
 ![](/images/panda.jpg){:height="300px"}
 
