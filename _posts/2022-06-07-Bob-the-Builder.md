@@ -148,7 +148,7 @@ HTML was used in creating the formatting for the website including the following
 - resume.html: provides a skeleton for our resume pdf. (This is assisted by the style1.css file instead of style.css)
 
 ```html
-{% raw %}{% extends 'base.html' %}
+{% raw %}
 <link href="{{ url_for('static', filename='resume_style.css') }}" rel='stylesheet' type='text/css'>
 
 <div class="container">
@@ -241,7 +241,7 @@ HTML was used in creating the formatting for the website including the following
   </div>
 </div>
 </div>
-{% endblock %}{% endraw %}
+{% endraw %}
 ```  
 > CSS
 - style.css: creates the style formatting for about.html, base.html, form.html, indeed_test.html, main_better.html
